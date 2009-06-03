@@ -2,7 +2,6 @@
 
 Gem::Specification.new do |s|
   s.name = %q{twitter_fu}
-  s.description = %q{quick and short lib for consuming rss of a twitter user}
   s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -25,13 +24,14 @@ Gem::Specification.new do |s|
      "test/client_test.rb",
      "test/fixtures/cyx.rss",
      "test/test_helper.rb",
-     "test/twitter_fu_test.rb"
+     "test/twitter_fu_test.rb",
+     "twitter_fu.gemspec"
   ]
   s.homepage = %q{http://github.com/cyx/twitter_fu}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.3}
-  s.summary = %q{Library for accessing feeds given a username (readonly)}
+  s.summary = %q{TODO}
   s.test_files = [
     "test/client_test.rb",
      "test/test_helper.rb",
