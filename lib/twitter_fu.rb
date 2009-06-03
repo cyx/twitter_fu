@@ -1,7 +1,8 @@
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__)))
 
 module TwitterFu
-  autoload :Client, 'twitter_fu/client'
+  autoload :Client,           'twitter_fu/client'
+  autoload :ContentSanitizer, 'twitter_fu/content_sanitizer'
   
   def self.updates( username )
     Client.new( username ).updates

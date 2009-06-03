@@ -14,7 +14,7 @@ module TwitterFu
       content = open( sprintf(URI, @username) ).read
       
       rss = RSS::Parser.parse( content, false )
-      since( rss.items, options[:since] )
+      with_content(since( rss.items, options[:since] ))
     end
     
     protected
@@ -28,6 +28,13 @@ module TwitterFu
         else
           items
         end
+      end
+      
+      def with_content( collection )
+        collection.map { |elem| 
+          elem.instance_variable_set(:@__username, @username)
+          elem.extend ContentSanitizer 
+        }
       end
   end
 end

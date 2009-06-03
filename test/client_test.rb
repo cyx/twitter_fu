@@ -36,6 +36,10 @@ class ClientTest < Test::Unit::TestCase
         should "return cyx: nice laker win as the first entry" do
           assert_equal "cyx: nice laker win", @client.updates.first.title
         end
+        
+        should "return nice laker win as the first entry's content" do
+          assert_equal "nice laker win", @client.updates.first.content
+        end
       
         should "return cyx: i think DHH got pissed... as the last entry" do
           assert_equal "cyx: i think DHH got pissed by ignorant bigots?", 
