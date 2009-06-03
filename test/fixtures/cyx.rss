@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter / cyx</title>
+    <link>http://twitter.com/cyx</link>
+    <atom:link type="application/rss+xml" rel="self" href="http://twitter.com/statuses/user_timeline/cyx.rss"/>
+    <description>Twitter updates from cyx / cyx.</description>
+    <language>en-us</language>
+    <ttl>40</ttl>
+  <item>
+    <title>cyx: nice laker win</title>
+    <description>cyx: nice laker win</description>
+    <pubDate>Thu, 28 May 2009 03:57:58 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1943503289</guid>
+    <link>http://twitter.com/cyx/statuses/1943503289</link>
+  </item>
+  <item>
+    <title>cyx: woah woah woah OT cavs magic woot</title>
+    <description>cyx: woah woah woah OT cavs magic woot</description>
+    <pubDate>Wed, 27 May 2009 03:23:36 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1931792266</guid>
+    <link>http://twitter.com/cyx/statuses/1931792266</link>
+  </item>
+  <item>
+    <title>cyx: @mikhailberis and since most of the great programmers in our time use it, i'm wondering why :D</title>
+    <description>cyx: @mikhailberis and since most of the great programmers in our time use it, i'm wondering why :D</description>
+    <pubDate>Mon, 11 May 2009 09:31:51 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1761768667</guid>
+    <link>http://twitter.com/cyx/statuses/1761768667</link>
+  </item>
+  <item>
+    <title>cyx: @mikhailberis i kinda feel there's a lot to get from immersing yourself in different editors / programming languages. :D</title>
+    <description>cyx: @mikhailberis i kinda feel there's a lot to get from immersing yourself in different editors / programming languages. :D</description>
+    <pubDate>Mon, 11 May 2009 09:31:24 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1761767091</guid>
+    <link>http://twitter.com/cyx/statuses/1761767091</link>
+  </item>
+  <item>
+    <title>cyx: OOH.. typing the word "lambda" in emacs auto-transforms it to the greek symbol. Now I understand why there's the option to use "lambda" :D</title>
+    <description>cyx: OOH.. typing the word "lambda" in emacs auto-transforms it to the greek symbol. Now I understand why there's the option to use "lambda" :D</description>
+    <pubDate>Mon, 11 May 2009 09:24:19 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1761742536</guid>
+    <link>http://twitter.com/cyx/statuses/1761742536</link>
+  </item>
+  <item>
+    <title>cyx: http://tokyocabinet.sourceforge.net/rubydoc -&amp;gt; works with ruby1.9</title>
+    <description>cyx: http://tokyocabinet.sourceforge.net/rubydoc -&amp;gt; works with ruby1.9</description>
+    <pubDate>Thu, 07 May 2009 08:36:20 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1725523508</guid>
+    <link>http://twitter.com/cyx/statuses/1725523508</link>
+  </item>
+  <item>
+    <title>cyx: @jorrel plus it includes the :lazy =&amp;gt; true option (don't get the records, use proxies and load as needed)</title>
+    <description>cyx: @jorrel plus it includes the :lazy =&amp;gt; true option (don't get the records, use proxies and load as needed)</description>
+    <pubDate>Mon, 04 May 2009 09:44:30 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1694462869</guid>
+    <link>http://twitter.com/cyx/statuses/1694462869</link>
+  </item>
+  <item>
+    <title>cyx: @jorrel not really official but its the most updated and includes the latest solr version. paths are better (it uses rails_root/tmp &amp; solr</title>
+    <description>cyx: @jorrel not really official but its the most updated and includes the latest solr version. paths are better (it uses rails_root/tmp &amp; solr</description>
+    <pubDate>Mon, 04 May 2009 09:43:11 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1694458066</guid>
+    <link>http://twitter.com/cyx/statuses/1694458066</link>
+  </item>
+  <item>
+    <title>cyx: downloading the latest solr version from mattmatt@github</title>
+    <description>cyx: downloading the latest solr version from mattmatt@github</description>
+    <pubDate>Mon, 04 May 2009 09:38:17 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1694440559</guid>
+    <link>http://twitter.com/cyx/statuses/1694440559</link>
+  </item>
+  <item>
+    <title>cyx: lola chimp</title>
+    <description>cyx: lola chimp</description>
+    <pubDate>Mon, 23 Mar 2009 06:07:02 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1374235746</guid>
+    <link>http://twitter.com/cyx/statuses/1374235746</link>
+  </item>
+  <item>
+    <title>cyx: @miguel: distract you from work</title>
+    <description>cyx: @miguel: distract you from work</description>
+    <pubDate>Thu, 26 Feb 2009 02:52:04 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1252074768</guid>
+    <link>http://twitter.com/cyx/statuses/1252074768</link>
+  </item>
+  <item>
+    <title>cyx: cucumber + webrat is a smooth middle ground between selenium testing and plain old stories. kudos to bryan for creating webrat</title>
+    <description>cyx: cucumber + webrat is a smooth middle ground between selenium testing and plain old stories. kudos to bryan for creating webrat</description>
+    <pubDate>Thu, 22 Jan 2009 13:22:53 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1138999897</guid>
+    <link>http://twitter.com/cyx/statuses/1138999897</link>
+  </item>
+  <item>
+    <title>cyx: now you see it, now you don't ^_^</title>
+    <description>cyx: now you see it, now you don't ^_^</description>
+    <pubDate>Fri, 16 Jan 2009 08:34:33 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1123261220</guid>
+    <link>http://twitter.com/cyx/statuses/1123261220</link>
+  </item>
+  <item>
+    <title>cyx: hmm. giving up on cache-money for now. too much magic is always too much headache later on...</title>
+    <description>cyx: hmm. giving up on cache-money for now. too much magic is always too much headache later on...</description>
+    <pubDate>Fri, 16 Jan 2009 08:34:12 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1123260851</guid>
+    <link>http://twitter.com/cyx/statuses/1123260851</link>
+  </item>
+  <item>
+    <title>cyx: @jorrel what's new?</title>
+    <description>cyx: @jorrel what's new?</description>
+    <pubDate>Thu, 15 Jan 2009 07:07:32 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1120453009</guid>
+    <link>http://twitter.com/cyx/statuses/1120453009</link>
+  </item>
+  <item>
+    <title>cyx: wondering if unobtrusive javascript is really the way to go</title>
+    <description>cyx: wondering if unobtrusive javascript is really the way to go</description>
+    <pubDate>Tue, 02 Dec 2008 07:04:57 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1033778544</guid>
+    <link>http://twitter.com/cyx/statuses/1033778544</link>
+  </item>
+  <item>
+    <title>cyx: or maybe stick to good 'ol starling. :D</title>
+    <description>cyx: or maybe stick to good 'ol starling. :D</description>
+    <pubDate>Tue, 02 Dec 2008 05:49:42 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1033704879</guid>
+    <link>http://twitter.com/cyx/statuses/1033704879</link>
+  </item>
+  <item>
+    <title>cyx: trying out zeroMQ. to zero or to rabbbit...</title>
+    <description>cyx: trying out zeroMQ. to zero or to rabbbit...</description>
+    <pubDate>Tue, 02 Dec 2008 05:40:51 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1033695498</guid>
+    <link>http://twitter.com/cyx/statuses/1033695498</link>
+  </item>
+  <item>
+    <title>cyx: @jorrel he's just trying to piss people off. :D actual change just reduces the array sugar from second to fourth, then skips to 42</title>
+    <description>cyx: @jorrel he's just trying to piss people off. :D actual change just reduces the array sugar from second to fourth, then skips to 42</description>
+    <pubDate>Fri, 21 Nov 2008 08:16:18 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1016167812</guid>
+    <link>http://twitter.com/cyx/statuses/1016167812</link>
+  </item>
+  <item>
+    <title>cyx: i think DHH got pissed by ignorant bigots?</title>
+    <description>cyx: i think DHH got pissed by ignorant bigots?</description>
+    <pubDate>Thu, 13 Nov 2008 11:36:52 +0000</pubDate>
+    <guid>http://twitter.com/cyx/statuses/1003666020</guid>
+    <link>http://twitter.com/cyx/statuses/1003666020</link>
+  </item>
+  </channel>
+</rss>
