@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{twitter_fu}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Cyril David"]
-  s.date = %q{2009-06-03}
+  s.date = %q{2009-06-08}
   s.email = %q{cyx.ucron@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
      "VERSION",
      "lib/twitter_fu.rb",
      "lib/twitter_fu/client.rb",
+     "lib/twitter_fu/content_sanitizer.rb",
      "test/client_test.rb",
      "test/fixtures/cyx.rss",
      "test/test_helper.rb",
