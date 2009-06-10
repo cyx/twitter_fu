@@ -12,7 +12,7 @@ module TwitterFu
     
     def valid?
       begin
-        resource.head
+        resource
       rescue OpenURI::HTTPError
         return false
       else
