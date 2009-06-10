@@ -9,7 +9,7 @@ module TwitterFu
   end
   
   def self.existing?( username )
-    Cliet.new( username ).valid?
+    Client.new( username ).valid?
   end
   
   def self.update( username, since = Time.now.utc )
