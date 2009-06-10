@@ -8,6 +8,10 @@ module TwitterFu
     Client.new( username ).updates( *args )
   end
   
+  def self.existing?( username )
+    Cliet.new( username ).valid?
+  end
+  
   def self.update( username, since = Time.now.utc )
     Client.new( username ).update( :since => since )
   end

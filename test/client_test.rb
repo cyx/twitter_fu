@@ -66,4 +66,19 @@ class ClientTest < Test::Unit::TestCase
     end
   end
   
+  
+  context "a Client given an invalid username" do
+    setup do
+      @client = TwitterFu::Client.new('aoeuthaoseuth')
+    end
+
+    should "not be valid" do
+      @client.expects(:open).raises(
+        OpenURI::HTTPError.new("msg", StringIO.new)
+      )
+      
+      assert_equal false, @client.valid?
+    end
+  end
+  
 end

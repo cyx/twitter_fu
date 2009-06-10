@@ -10,14 +10,28 @@ module TwitterFu
       @username = username
     end
     
+    def valid?
+      begin
+        resource.head
+      rescue OpenURI::HTTPError
+        return false
+      else
+        return true
+      end
+    end
+    
     def updates( options = {} )
-      content = open( sprintf(URI, @username) ).read
+      content = resource.read
       
       rss = RSS::Parser.parse( content, false )
       with_content(since( rss.items, options[:since] ))
     end
     
     protected
+      def resource
+        open( sprintf(URI, @username) )
+      end
+      
       def open(*args)
         Kernel.open(*args)
       end
